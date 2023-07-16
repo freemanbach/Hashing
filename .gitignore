@@ -1,0 +1,6 @@
+# unneeded directories
+.vs/
+.git/
+Hashing/.vs/
+Hashing/bin/
+Hashing/obj/
